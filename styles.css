@@ -1,0 +1,71 @@
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,100,121,1) 0%, rgba(0,212,255,1) 100%);
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sectionButtons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+
+}
+button {
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 15px;
+    font-size: 20px;
+    cursor: pointer;
+}
+#conteiner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    
+}
+img {
+    max-width: 400px;
+    max-height: 400px;
+}
+.numeros{
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    margin: 100px auto;
+    font-size: 40px;
+    border: 2px solid;
+    
+}
+.x{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.bloque {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#contadorPuntos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+#contador{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
